@@ -1,1 +1,11 @@
-.env
+# Caches e Binários do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (caso use ferramentas locais)
+env/
+
+# Arquivos de Configuração de IDEs
+.vscode/
+
